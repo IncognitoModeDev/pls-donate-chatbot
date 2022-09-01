@@ -1,2 +1,2 @@
 # pls-donate-chatbot
-afk chatbot for pls donate written in pythonb
+afk chatbot for pls donate written in python
